@@ -10,3 +10,6 @@
 
 # Add the new commit with your comment
 #   git commit -m "Add the file for future commit"
+
+# Check you added correctly your name and email
+#   git config --list
