@@ -12,4 +12,4 @@
 #   git commit -m "Add the file for future commit"
 
 # Check you added correctly your name and email
-#   git config --list
+#   git config --list --global
