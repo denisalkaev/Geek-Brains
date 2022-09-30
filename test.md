@@ -4,3 +4,6 @@
 
 # Add the file for future commit
 #   git add <fileName>
+
+# Add the new commit with your comment
+#   git commit -m "Add the file for future commit"
