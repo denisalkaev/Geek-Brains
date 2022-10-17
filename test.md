@@ -43,3 +43,14 @@ git branch -d "branch name"
 
 ### Show the chart of commits and branches
 git log --graph
+# Pull request
+### Copy the repository
+git clone "link from GitHub"
+
+### Allocate your data on your GitHub repository
+git push
+
+### Take the data from your GitHub repository
+git pull
+
+### Do the branch of head repository (press "Fork" on GitHub). Then Clone forked repository, do some changes in new branch. Then commit changes, push it to forked repository and press "Pull request" with comments. Ann wait for the answer from repository's owner (approve or reject)
