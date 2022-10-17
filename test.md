@@ -21,3 +21,6 @@ git log
 
 ### Look through the history of commits in brief
 git log --oneline  
+
+### Switch to commit
+git checkout "the first letters of commit"
