@@ -1,8 +1,8 @@
 #  Introduction to version control
 ###  Set the Name and Email for Git
-git config --global user.name "<your name>"
-  
-git config --global user.email "<yourEmail@email.com>"
+git config --global user.name "your name"
+
+git config --global user.email "yourEmail@email.com"
 
 ### Remember to Save file before adding the commit
    press "CMD+S"
@@ -24,3 +24,22 @@ git log --oneline
 
 ### Switch to commit
 git checkout "the first letters of commit"
+
+# Branches
+### Create the the branch
+git branch "branch name"
+
+### Look through the all branches
+git branch
+
+### Switch to branch
+git checkout "branch name"
+
+### Merge branch
+git merge "daughter branch"
+
+### Delete the branch
+git branch -d "branch name"
+
+### Show the chart of commits and branches
+git log --graph
