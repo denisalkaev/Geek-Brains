@@ -1,3 +1,4 @@
+#  Introduction to version control
 ###  Set the Name and Email for Git
 git config --global user.name "<your name>"
   
@@ -14,3 +15,9 @@ git commit -m "Add the file for future commit"
 
 ### Check you added correctly your name and email
 git config --list --global
+
+### Look through the history of commits
+git log
+
+### Look through the history of commits in brief
+git log --oneline  
