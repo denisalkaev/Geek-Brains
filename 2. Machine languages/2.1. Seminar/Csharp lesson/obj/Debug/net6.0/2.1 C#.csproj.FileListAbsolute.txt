@@ -1,0 +1,15 @@
+C:\Users\denis\Desktop\Geek Brains\2. Знакомство с языками программирования\2.1 C#\bin\Debug\net6.0\2.1 C#.exe
+C:\Users\denis\Desktop\Geek Brains\2. Знакомство с языками программирования\2.1 C#\bin\Debug\net6.0\2.1 C#.deps.json
+C:\Users\denis\Desktop\Geek Brains\2. Знакомство с языками программирования\2.1 C#\bin\Debug\net6.0\2.1 C#.runtimeconfig.json
+C:\Users\denis\Desktop\Geek Brains\2. Знакомство с языками программирования\2.1 C#\bin\Debug\net6.0\2.1 C#.dll
+C:\Users\denis\Desktop\Geek Brains\2. Знакомство с языками программирования\2.1 C#\bin\Debug\net6.0\2.1 C#.pdb
+C:\Users\denis\Desktop\Geek Brains\2. Знакомство с языками программирования\2.1 C#\obj\Debug\net6.0\2.1 C#.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\Geek Brains\2. Знакомство с языками программирования\2.1 C#\obj\Debug\net6.0\2.1 C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\Desktop\Geek Brains\2. Знакомство с языками программирования\2.1 C#\obj\Debug\net6.0\2.1 C#.AssemblyInfoInputs.cache
+C:\Users\denis\Desktop\Geek Brains\2. Знакомство с языками программирования\2.1 C#\obj\Debug\net6.0\2.1 C#.AssemblyInfo.cs
+C:\Users\denis\Desktop\Geek Brains\2. Знакомство с языками программирования\2.1 C#\obj\Debug\net6.0\2.1 C#.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\Geek Brains\2. Знакомство с языками программирования\2.1 C#\obj\Debug\net6.0\2.1 C#.dll
+C:\Users\denis\Desktop\Geek Brains\2. Знакомство с языками программирования\2.1 C#\obj\Debug\net6.0\refint\2.1 C#.dll
+C:\Users\denis\Desktop\Geek Brains\2. Знакомство с языками программирования\2.1 C#\obj\Debug\net6.0\2.1 C#.pdb
+C:\Users\denis\Desktop\Geek Brains\2. Знакомство с языками программирования\2.1 C#\obj\Debug\net6.0\2.1 C#.genruntimeconfig.cache
+C:\Users\denis\Desktop\Geek Brains\2. Знакомство с языками программирования\2.1 C#\obj\Debug\net6.0\ref\2.1 C#.dll
