@@ -1,0 +1,15 @@
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.1. Seminar\ Hometask\Task 8\bin\Debug\net6.0\Task 8.exe
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.1. Seminar\ Hometask\Task 8\bin\Debug\net6.0\Task 8.deps.json
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.1. Seminar\ Hometask\Task 8\bin\Debug\net6.0\Task 8.runtimeconfig.json
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.1. Seminar\ Hometask\Task 8\bin\Debug\net6.0\Task 8.dll
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.1. Seminar\ Hometask\Task 8\bin\Debug\net6.0\Task 8.pdb
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.1. Seminar\ Hometask\Task 8\obj\Debug\net6.0\Task 8.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.1. Seminar\ Hometask\Task 8\obj\Debug\net6.0\Task 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.1. Seminar\ Hometask\Task 8\obj\Debug\net6.0\Task 8.AssemblyInfoInputs.cache
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.1. Seminar\ Hometask\Task 8\obj\Debug\net6.0\Task 8.AssemblyInfo.cs
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.1. Seminar\ Hometask\Task 8\obj\Debug\net6.0\Task 8.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.1. Seminar\ Hometask\Task 8\obj\Debug\net6.0\Task 8.dll
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.1. Seminar\ Hometask\Task 8\obj\Debug\net6.0\refint\Task 8.dll
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.1. Seminar\ Hometask\Task 8\obj\Debug\net6.0\Task 8.pdb
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.1. Seminar\ Hometask\Task 8\obj\Debug\net6.0\Task 8.genruntimeconfig.cache
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.1. Seminar\ Hometask\Task 8\obj\Debug\net6.0\ref\Task 8.dll
