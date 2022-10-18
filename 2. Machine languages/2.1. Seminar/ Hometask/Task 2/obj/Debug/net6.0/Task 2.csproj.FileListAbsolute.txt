@@ -1,0 +1,15 @@
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/ Hometask/Task 2/bin/Debug/net6.0/Task 2
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/ Hometask/Task 2/bin/Debug/net6.0/Task 2.deps.json
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/ Hometask/Task 2/bin/Debug/net6.0/Task 2.runtimeconfig.json
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/ Hometask/Task 2/bin/Debug/net6.0/Task 2.dll
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/ Hometask/Task 2/bin/Debug/net6.0/Task 2.pdb
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/ Hometask/Task 2/obj/Debug/net6.0/Task 2.csproj.AssemblyReference.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/ Hometask/Task 2/obj/Debug/net6.0/Task 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/ Hometask/Task 2/obj/Debug/net6.0/Task 2.AssemblyInfoInputs.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/ Hometask/Task 2/obj/Debug/net6.0/Task 2.AssemblyInfo.cs
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/ Hometask/Task 2/obj/Debug/net6.0/Task 2.csproj.CoreCompileInputs.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/ Hometask/Task 2/obj/Debug/net6.0/Task 2.dll
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/ Hometask/Task 2/obj/Debug/net6.0/refint/Task 2.dll
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/ Hometask/Task 2/obj/Debug/net6.0/Task 2.pdb
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/ Hometask/Task 2/obj/Debug/net6.0/Task 2.genruntimeconfig.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/ Hometask/Task 2/obj/Debug/net6.0/ref/Task 2.dll
