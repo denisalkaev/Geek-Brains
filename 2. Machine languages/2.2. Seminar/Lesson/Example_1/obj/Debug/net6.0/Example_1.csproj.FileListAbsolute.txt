@@ -1,0 +1,15 @@
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.2. Seminar/Lesson/Example_1/bin/Debug/net6.0/Example_1
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.2. Seminar/Lesson/Example_1/bin/Debug/net6.0/Example_1.deps.json
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.2. Seminar/Lesson/Example_1/bin/Debug/net6.0/Example_1.runtimeconfig.json
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.2. Seminar/Lesson/Example_1/bin/Debug/net6.0/Example_1.dll
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.2. Seminar/Lesson/Example_1/bin/Debug/net6.0/Example_1.pdb
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.2. Seminar/Lesson/Example_1/obj/Debug/net6.0/Example_1.csproj.AssemblyReference.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.2. Seminar/Lesson/Example_1/obj/Debug/net6.0/Example_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.2. Seminar/Lesson/Example_1/obj/Debug/net6.0/Example_1.AssemblyInfoInputs.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.2. Seminar/Lesson/Example_1/obj/Debug/net6.0/Example_1.AssemblyInfo.cs
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.2. Seminar/Lesson/Example_1/obj/Debug/net6.0/Example_1.csproj.CoreCompileInputs.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.2. Seminar/Lesson/Example_1/obj/Debug/net6.0/Example_1.dll
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.2. Seminar/Lesson/Example_1/obj/Debug/net6.0/refint/Example_1.dll
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.2. Seminar/Lesson/Example_1/obj/Debug/net6.0/Example_1.pdb
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.2. Seminar/Lesson/Example_1/obj/Debug/net6.0/Example_1.genruntimeconfig.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.2. Seminar/Lesson/Example_1/obj/Debug/net6.0/ref/Example_1.dll
