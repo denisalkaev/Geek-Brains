@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\denis\\Desktop\\Geek Brains\\2. Знакомство с языками программирования\\2.1 C#\\2.1 C#.csproj": {}
+    "/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/Csharp lesson/2.1 C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\denis\\Desktop\\Geek Brains\\2. Знакомство с языками программирования\\2.1 C#\\2.1 C#.csproj": {
+    "/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/Csharp lesson/2.1 C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denis\\Desktop\\Geek Brains\\2. Знакомство с языками программирования\\2.1 C#\\2.1 C#.csproj",
+        "projectUniqueName": "/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/Csharp lesson/2.1 C#.csproj",
         "projectName": "2.1 C#",
-        "projectPath": "C:\\Users\\denis\\Desktop\\Geek Brains\\2. Знакомство с языками программирования\\2.1 C#\\2.1 C#.csproj",
-        "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denis\\Desktop\\Geek Brains\\2. Знакомство с языками программирования\\2.1 C#\\obj\\",
+        "projectPath": "/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/Csharp lesson/2.1 C#.csproj",
+        "packagesPath": "/Users/denisalkaev/.nuget/packages/",
+        "outputPath": "/Users/denisalkaev/Desktop/VSC projects/Geek Brains/Geek-Brains/2. Machine languages/2.1. Seminar/Csharp lesson/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\denis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/denisalkaev/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }
