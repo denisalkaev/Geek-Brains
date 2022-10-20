@@ -1,0 +1,15 @@
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.3. Seminar\Seminar\Task_3\bin\Debug\net6.0\Task_3.exe
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.3. Seminar\Seminar\Task_3\bin\Debug\net6.0\Task_3.deps.json
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.3. Seminar\Seminar\Task_3\bin\Debug\net6.0\Task_3.runtimeconfig.json
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.3. Seminar\Seminar\Task_3\bin\Debug\net6.0\Task_3.dll
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.3. Seminar\Seminar\Task_3\bin\Debug\net6.0\Task_3.pdb
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.3. Seminar\Seminar\Task_3\obj\Debug\net6.0\Task_3.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.3. Seminar\Seminar\Task_3\obj\Debug\net6.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.3. Seminar\Seminar\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfoInputs.cache
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.3. Seminar\Seminar\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfo.cs
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.3. Seminar\Seminar\Task_3\obj\Debug\net6.0\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.3. Seminar\Seminar\Task_3\obj\Debug\net6.0\Task_3.dll
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.3. Seminar\Seminar\Task_3\obj\Debug\net6.0\refint\Task_3.dll
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.3. Seminar\Seminar\Task_3\obj\Debug\net6.0\Task_3.pdb
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.3. Seminar\Seminar\Task_3\obj\Debug\net6.0\Task_3.genruntimeconfig.cache
+C:\Users\denis\Desktop\Geek Brains\Geek-Brains\2. Machine languages\2.3. Seminar\Seminar\Task_3\obj\Debug\net6.0\ref\Task_3.dll
