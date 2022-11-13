@@ -19,10 +19,7 @@ void CountNumbers(int[] array)
     int counts = 0;
     foreach (int el in array)
     {
-        if (el % 2 == 0)
-        {
-            counts++;
-        }
+        if (el % 2 == 0) counts++;
     }
     Console.WriteLine($"Количество четных чисел: {counts}");
 }
