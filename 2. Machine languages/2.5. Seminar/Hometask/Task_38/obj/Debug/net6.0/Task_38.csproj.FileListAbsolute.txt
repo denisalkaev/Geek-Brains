@@ -1,0 +1,15 @@
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.5. Seminar/Hometask/Task_38/obj/Debug/net6.0/Task_38.csproj.AssemblyReference.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.5. Seminar/Hometask/Task_38/obj/Debug/net6.0/Task_38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.5. Seminar/Hometask/Task_38/obj/Debug/net6.0/Task_38.AssemblyInfoInputs.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.5. Seminar/Hometask/Task_38/obj/Debug/net6.0/Task_38.AssemblyInfo.cs
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.5. Seminar/Hometask/Task_38/obj/Debug/net6.0/Task_38.csproj.CoreCompileInputs.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.5. Seminar/Hometask/Task_38/bin/Debug/net6.0/Task_38
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.5. Seminar/Hometask/Task_38/bin/Debug/net6.0/Task_38.deps.json
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.5. Seminar/Hometask/Task_38/bin/Debug/net6.0/Task_38.runtimeconfig.json
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.5. Seminar/Hometask/Task_38/bin/Debug/net6.0/Task_38.dll
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.5. Seminar/Hometask/Task_38/bin/Debug/net6.0/Task_38.pdb
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.5. Seminar/Hometask/Task_38/obj/Debug/net6.0/Task_38.dll
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.5. Seminar/Hometask/Task_38/obj/Debug/net6.0/refint/Task_38.dll
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.5. Seminar/Hometask/Task_38/obj/Debug/net6.0/Task_38.pdb
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.5. Seminar/Hometask/Task_38/obj/Debug/net6.0/Task_38.genruntimeconfig.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.5. Seminar/Hometask/Task_38/obj/Debug/net6.0/ref/Task_38.dll
