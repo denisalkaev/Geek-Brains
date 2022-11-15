@@ -1,0 +1,15 @@
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.6. Seminar/Seminar/Task_1/obj/Debug/net6.0/Task_1.csproj.AssemblyReference.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.6. Seminar/Seminar/Task_1/obj/Debug/net6.0/Task_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.6. Seminar/Seminar/Task_1/obj/Debug/net6.0/Task_1.AssemblyInfoInputs.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.6. Seminar/Seminar/Task_1/obj/Debug/net6.0/Task_1.AssemblyInfo.cs
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.6. Seminar/Seminar/Task_1/obj/Debug/net6.0/Task_1.csproj.CoreCompileInputs.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.6. Seminar/Seminar/Task_1/bin/Debug/net6.0/Task_1
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.6. Seminar/Seminar/Task_1/bin/Debug/net6.0/Task_1.deps.json
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.6. Seminar/Seminar/Task_1/bin/Debug/net6.0/Task_1.runtimeconfig.json
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.6. Seminar/Seminar/Task_1/bin/Debug/net6.0/Task_1.dll
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.6. Seminar/Seminar/Task_1/bin/Debug/net6.0/Task_1.pdb
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.6. Seminar/Seminar/Task_1/obj/Debug/net6.0/Task_1.dll
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.6. Seminar/Seminar/Task_1/obj/Debug/net6.0/refint/Task_1.dll
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.6. Seminar/Seminar/Task_1/obj/Debug/net6.0/Task_1.pdb
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.6. Seminar/Seminar/Task_1/obj/Debug/net6.0/Task_1.genruntimeconfig.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.6. Seminar/Seminar/Task_1/obj/Debug/net6.0/ref/Task_1.dll
