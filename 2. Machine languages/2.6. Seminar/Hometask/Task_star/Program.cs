@@ -25,25 +25,41 @@ void FillArray(int[,] array)
     }
 }
 
-int[,] array = new int[3, 3];
-int[] newArray = new int[array.GetLength(0) * array.GetLength(1)];
+void FlattenArray(int[,] array)
+{
+    int height = array.GetLength(0);
+    int width = array.GetLength(1);
+    int[] result = new int[height * width];
+    int col = 0, index = 0, delta = 1;
 
+    for (int row = height - 1; row >= 0; row--)
+    {// перебор строк
+        while (col >= 0 && col < width)
+        {
+            result[index] = array[row, col];
+            col += delta;
+            index++;
+        }
+        if (delta > 0 && col == width)
+        {// разворот обхода строки <<<<<
+            col -= 1;
+            delta = -1;
+            continue;
+        }
+        if (delta < 0 && col < 0)
+        {// разворот обхода строки >>>>>
+            col = 0;
+            delta = 1;
+            continue;
+        }
+    }
+    Console.WriteLine("Your NEW array is:");
+    Console.WriteLine(string.Join(", ", result));
+}
+
+int[,] array = new int[3, 3];
 FillArray(array);
 Console.WriteLine("Your array is:");
 PrintArray(array);
-
-void FlattenArray(int row, int col)
-{
-    int N = array[row, col];
-    Console.WriteLine(N);
-
-    if (row < array.GetLength(0) && row >= 0 && col < array.GetLength(1) && col >= 0)
-    {
-        FlattenArray(row, col + 1);
-        FlattenArray(row - 1, col);
-        FlattenArray(row, col - 1);
-        FlattenArray(row + 1, col);
-    }
-}
-
-FlattenArray(2, 0);
+Console.WriteLine();
+FlattenArray(array);

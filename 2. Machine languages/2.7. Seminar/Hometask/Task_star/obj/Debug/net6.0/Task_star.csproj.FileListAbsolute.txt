@@ -1,0 +1,15 @@
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.7. Seminar/Hometask/Task_star/bin/Debug/net6.0/Task_star
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.7. Seminar/Hometask/Task_star/bin/Debug/net6.0/Task_star.deps.json
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.7. Seminar/Hometask/Task_star/bin/Debug/net6.0/Task_star.runtimeconfig.json
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.7. Seminar/Hometask/Task_star/bin/Debug/net6.0/Task_star.dll
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.7. Seminar/Hometask/Task_star/bin/Debug/net6.0/Task_star.pdb
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.7. Seminar/Hometask/Task_star/obj/Debug/net6.0/Task_star.csproj.AssemblyReference.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.7. Seminar/Hometask/Task_star/obj/Debug/net6.0/Task_star.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.7. Seminar/Hometask/Task_star/obj/Debug/net6.0/Task_star.AssemblyInfoInputs.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.7. Seminar/Hometask/Task_star/obj/Debug/net6.0/Task_star.AssemblyInfo.cs
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.7. Seminar/Hometask/Task_star/obj/Debug/net6.0/Task_star.csproj.CoreCompileInputs.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.7. Seminar/Hometask/Task_star/obj/Debug/net6.0/Task_star.dll
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.7. Seminar/Hometask/Task_star/obj/Debug/net6.0/refint/Task_star.dll
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.7. Seminar/Hometask/Task_star/obj/Debug/net6.0/Task_star.pdb
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.7. Seminar/Hometask/Task_star/obj/Debug/net6.0/Task_star.genruntimeconfig.cache
+/Users/denisalkaev/Desktop/VSC projects/Geek-Brains/2. Machine languages/2.7. Seminar/Hometask/Task_star/obj/Debug/net6.0/ref/Task_star.dll
